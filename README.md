@@ -42,7 +42,7 @@ Source: **Official** (Anthropic), **Mine** (Ezra-Y), **Community**. Stars show t
 | [web-design](https://github.com/KAOPU-XiaoPu/web-design) | Design beautiful, consistent web pages. A SKILL for cohesive web page design with opinionated aesthetics. | Community | ⭐785 |
 | [ai-friendly-web-design-skill](https://github.com/ianho7/ai-friendly-web-design-skill) | Build web interfaces friendly to AI assistants and users alike — structure, semantics, accessibility tuned for AI consumption. | Community | ⭐77 |
 | [web-designer-plugin](https://github.com/MickeyAlton33/web-designer-plugin) | 48 award-winning web design patterns as a plugin. Drop-in patterns for hero, nav, cards, forms, etc. | Community | ⭐106 |
-| [tasteful-ui-skill](https://github.com/DonkeyKing01/tasteful-ui-skill) | Taste-first UI design for coding agents — explore visual directions before committing, avoid generic output. | Community | ⭐21 |
+| [tasteful-ui-skill](https://github.com/DonkeyKing01/tasteful-ui-skill) | Taste-first UI design for coding agents — explore visual directions before committing, avoid generic output. | Community | ⭐22 |
 | [UIUX-high-taste-skill](https://github.com/Payoss/UIUX-high-taste-skill) | Curated collection of premium UI/UX design skills. High-taste, polished outputs for demanding projects. | Community | ⭐12 |
 | [elite-web-design](https://github.com/RSHVR/elite-web-design) | Premium frontend design skills collection — bold, distinctive web aesthetics for production apps. | Community | ⭐1 |
 | [frontend-design-engineer-skill](https://github.com/angelapaia/frontend-design-engineer-skill) | Art Director + Senior Frontend Engineer in one skill. Bridging design vision and frontend implementation. | Community | ⭐5 |
@@ -65,11 +65,11 @@ Source: **Official** (Anthropic), **Mine** (Ezra-Y), **Community**. Stars show t
 | [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) | Create beautiful visual art in .png and .pdf using a design philosophy. Bundles 30+ fonts. For posters, art, static pieces. | Official | — |
 | [banner-design](https://github.com/anthropics/skills) | Banners for social, ads, website heroes, print. Multiple art-direction options with AI-generated visuals; platform-specific sizes. | Official | — |
 | [slides](https://github.com/anthropics/skills) | Strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, slide strategies. | Official | — |
-| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Create animation-rich HTML presentations from scratch or by converting PowerPoint. Bold template packs included. | Community | ⭐30503 |
+| [frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Create animation-rich HTML presentations from scratch or by converting PowerPoint. Bold template packs included. | Community | ⭐30573 |
 | [design](https://github.com/anthropics/skills) | Built-in design production: logo (55 styles), CIP mockups, SVG icons (15 styles), social photos. Multi-platform output. | Official | — |
 | [design-assets-index](https://github.com/Ezra-Y/design-assets-index) | Index of ready-made design assets — stock photos, icons, fonts, color palettes, mockups, UI kits, templates. Where to find assets. | Mine | — |
 | [design-tools-index](https://github.com/Ezra-Y/design-tools-index) | Categorized index of design tools by purpose (animation/color/prototyping/handoff/design-to-code...) — 30+ categories. | Mine | — |
-| [awesome-design-html](https://github.com/yzfly/awesome-design-html) | 115 brand-themed HTML designs as a Claude Code skill — 93 web + 22 templates for inspiration/starting points. | Community | ⭐159 |
+| [awesome-design-html](https://github.com/yzfly/awesome-design-html) | 115 brand-themed HTML designs as a Claude Code skill — 93 web + 22 templates for inspiration/starting points. | Community | ⭐161 |
 
 ### 4. React / Frontend Engineering
 
@@ -85,7 +85,7 @@ Source: **Official** (Anthropic), **Mine** (Ezra-Y), **Community**. Stars show t
 
 | Skill | What it does | Source | Stars |
 |---|---|---|---|
-| [taste-skill](https://github.com/senlindesign/taste-skill) | Reverse-engineer any website's design taste from a URL. Captures DOM + screenshot, outputs tokens AND taste DNA (the why behind decisions). | Community | ⭐387 |
+| [taste-skill](https://github.com/senlindesign/taste-skill) | Reverse-engineer any website's design taste from a URL. Captures DOM + screenshot, outputs tokens AND taste DNA (the why behind decisions). | Community | ⭐390 |
 | [claude2figma](https://github.com/senlindesign/claude2figma) | Claude + Figma enforcement layer — component rules, preflight, style binding, reference interpreter. Keeps Figma output consistent. | Community | ⭐205 |
 | [brand](https://github.com/anthropics/skills) | Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Build/maintain a brand system. | Official | — |
 | [webdesign-agency-skills](https://github.com/peterhadorn/webdesign-agency-skills) | Audit any website for a client-ready sales brief, or run targeted design reviews. Agency-grade workflows. | Community | ⭐42 |
@@ -95,9 +95,9 @@ Source: **Official** (Anthropic), **Mine** (Ezra-Y), **Community**. Stars show t
 | Skill | What it does | Source | Stars |
 |---|---|---|---|
 | [swiftui-design-skill](https://github.com/Wholiver/swiftui-design-skill) | SwiftUI frontend visual design — 6 anti-AI-slop rules, Apple-native typography, 5-dimension design review. Distinctive iOS/macOS UI. | Community | ⭐207 |
-| [SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | SwiftUI agent skill by Paul Hudson. Helps AI write smarter modern SwiftUI — API, design, performance, accessibility, navigation. | Community | ⭐5794 |
-| [apple-skills](https://github.com/vabole/apple-skills) | Apple development skills collection — HIG, ios-design-consultant, ui-craft, swiftui/animations, plus frameworks (StoreKit/HealthKit/etc.). | Community | ⭐339 |
-| [ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | iOS simulator automation — build/test scripts, accessibility navigation, screen mapping, gestures, visual diff, app lifecycle. | Community | ⭐1271 |
+| [SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) | SwiftUI agent skill by Paul Hudson. Helps AI write smarter modern SwiftUI — API, design, performance, accessibility, navigation. | Community | ⭐5845 |
+| [apple-skills](https://github.com/vabole/apple-skills) | Apple development skills collection — HIG, ios-design-consultant, ui-craft, swiftui/animations, plus frameworks (StoreKit/HealthKit/etc.). | Community | ⭐340 |
+| [ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) | iOS simulator automation — build/test scripts, accessibility navigation, screen mapping, gestures, visual diff, app lifecycle. | Community | ⭐1274 |
 | [ios-motion-patterns-index](https://github.com/Ezra-Y/ios-motion-patterns-index) | Index of runnable Swift animation code by category (Menu/Transition/Indicator/Alert/Animation/UI) from MotionBook. | Mine | — |
 
 ---
